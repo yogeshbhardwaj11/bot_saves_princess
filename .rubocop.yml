@@ -1,0 +1,12 @@
+AllCops:
+  TargetRubyVersion: 2.3.3
+LineLength:
+  Max: 81
+MethodLength:
+  Max: 24
+BlockLength:
+  Max: 34
+Style/Semicolon:
+  AllowAsExpressionSeparator: true
+Metrics/AbcSize:
+  Max: 21
